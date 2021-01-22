@@ -1,0 +1,32 @@
+header{background-color:lightblue;
+text-align: center;
+height: 15mm;
+}
+header hr{width: 19cm;}
+
+header img:hover{opacity: 0.2;}
+
+section{text-align: center;
+    border-top: blue 10px solid;
+border-bottom: blue 10px solid;
+height: 13mm;}
+
+section p:hover{
+    content: "Historia";
+    background-color: lightskyblue;
+    color: black;}
+
+    div{
+    background-image: url(img/valencia_antigua.jpg);
+    background-attachment: lightblue;
+      background-size: 50%,100%;
+      background-position:left;
+        color: blue;
+border: black solid;    }
+
+h2{background-color: lightblue;
+    text-align: center;
+
+
+
+}
